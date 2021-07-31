@@ -1,0 +1,51 @@
+body {
+  min-height: 2000px;
+}
+h1 {
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.lead {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  word-spacing: -2px;
+}
+
+.intro {
+  padding-top: 1rem;
+}
+#about {
+  padding-top: 4rem;
+}
+
+#WE {
+  padding-top: 8rem;
+}
+
+a {
+  font-weight: bolder;
+}
+
+p {
+  font-size: 12pt;
+}
+
+mark {
+  background-color: #212529;
+}
+
+#OrganizationExperience {
+  padding-top: 6rem;
+}
+
+#Contact {
+  padding-top: 10rem;
+}
+
+.footer {
+  padding-top: 4rem;
+}
+
+.col .card {
+  flex: 1;
+}
